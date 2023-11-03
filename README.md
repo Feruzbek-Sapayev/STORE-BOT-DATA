@@ -1,0 +1,2 @@
+# STORE-BOT-DATA
+Datadaki STORE Bot
